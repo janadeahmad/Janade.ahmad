@@ -6,7 +6,7 @@
 
 <!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Hi 👋, I'm Janade</h1>
+<h1 align="center"> Janade Ahmad </h1>
 
 <h3 align="center">
 Senior DevOps Engineer • Site Reliability Engineer • Cloud Engineer

@@ -12,9 +12,9 @@ Senior DevOps Engineer • Site Reliability Engineer • Cloud Engineer
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=janadeahmad&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+<a href="https://www.linkedin.com/in/janade">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

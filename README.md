@@ -265,5 +265,26 @@ Production incident response documentation.
 
 # 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/janade
-- 📧 Email: janade.ahmd@gmail.com
+<p align="center">
+
+<a href="https://www.linkedin.com/in/janade" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/janadeahmad" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
+
+<a href="https://janade-resume.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+
+<a href="mailto:janade.ahmd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+</a>
+
+<a href="tel:+33 60755523">
+<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+</a>
+
+</p>

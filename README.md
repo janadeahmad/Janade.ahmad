@@ -1,7 +1,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Senior+DevOps+Engineer;Site+Reliability+Engineer;Cloud+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Platform+Engineering+Enthusiast"/>
 </p>
+
 ---
+
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">Hi 👋, I'm Janade</h1>
@@ -143,6 +145,8 @@ Senior DevOps Engineer • Site Reliability Engineer • Cloud Engineer
 <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
 </a>
 </p>
+
+
 ---
 
 # 📜 Certifications

@@ -250,7 +250,7 @@ Production incident response documentation.
 
 ---
 
-# 📌 Featured Projects
+# 📌 Pinned Projects
 
 | Project | Description |
 |---------|------------|

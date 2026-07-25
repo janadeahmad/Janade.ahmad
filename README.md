@@ -44,7 +44,6 @@ Senior DevOps Engineer • Senior Site Reliability Engineer • Senior Cloud Eng
 
 ✔ Linux Expert
 
-✔ Currently learning Google Cloud Platform (GCP)
 
 ---
 

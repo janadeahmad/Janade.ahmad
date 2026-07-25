@@ -9,7 +9,7 @@
 <h1 align="center"> Janade Ahmad </h1>
 
 <h3 align="center">
-Senior DevOps Engineer • Senior Site Reliability Engineer • Senior Cloud Engineer • Senior DBA
+Senior DevOps Engineer • Senior Site Reliability Engineer • Senior AI Infrastructure • Senior DBA
 </h3>
 
 <p align="center">

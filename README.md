@@ -181,6 +181,27 @@ Grafana + Prometheus + Alertmanager.
 Production incident response documentation.
 
 ---
+## Production Experience
+
+✔ Kubernetes Production Clusters
+
+✔ CI/CD Pipelines
+
+✔ Infrastructure as Code
+
+✔ Site Reliability Engineering
+
+✔ Cloud Migration
+
+✔ Incident Response
+
+✔ Observability
+
+✔ Disaster Recovery
+
+✔ Linux Administration
+
+✔ Platform Engineering
 
 # 🔥 GitHub Streak
 

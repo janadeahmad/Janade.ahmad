@@ -296,7 +296,7 @@ Production incident response documentation.
 <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
 </a>
 
-<a href="tel:+33123456789">
+✔<a href="tel:+33123456789">
   📞 +33 6 09 75 55 23
 </a>
 

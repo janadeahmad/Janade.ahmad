@@ -301,3 +301,313 @@ Production incident response documentation.
 </a>
 
 </p>
+
+---
+
+<h1 align="center">🇫🇷 <strong>VERSION FRANÇAISE</strong></h1>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Ingénieur+Senior+en+Infrastructure+IA;Site+Reliability+Engineer;Cloud+Engineer;AWS+%7C+Azure+%7C+GCP+%7C+Kubernetes;Passionné+par+la+Platform+Engineering"/>
+</p>
+
+---
+
+<!-- ========================= HEADER ========================= -->
+
+<h1 align="center">Janade Ahmad</h1>
+
+<h3 align="center">
+Ingénieur Senior DevOps • Site Reliability Engineer (SRE) • Infrastructure IA • Administrateur de Bases de Données (DBA)
+</h3>
+
+<p align="center">
+Plus de 18 ans d'expérience dans la conception de plateformes Cloud évolutives, sécurisées, hautement disponibles et dans l'administration de bases de données.
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=janadeahmad&label=Vues%20du%20profil&color=0e75b6&style=for-the-badge" />
+
+<a href="https://www.linkedin.com/in/janade">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 À propos de moi
+
+✔ Ingénieur Senior DevOps & Site Reliability Engineer (SRE)
+
+✔ Plus de 18 ans d'expérience en Infrastructure, Cloud et Plateformes
+
+✔ AWS • Microsoft Azure • Google Cloud Platform (GCP) • Kubernetes • OpenShift
+
+✔ Passionné par l'automatisation et les bonnes pratiques DevOps
+
+✔ Expert en ingénierie de la fiabilité (Reliability Engineering)
+
+✔ Conception et exploitation de plateformes Cloud prêtes pour la production
+
+✔ Expert Linux
+
+---
+
+# 🛠 Stack Technique
+
+## ☁️ Cloud
+
+<p>
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+</a>
+
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure"/>
+</a>
+
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud"/>
+</a>
+</p>
+
+---
+
+## 📦 Conteneurs & Orchestration
+
+<p>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/>
+</a>
+
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank">
+<img src="https://img.shields.io/badge/OpenShift-red?style=for-the-badge&logo=redhatopenshift" alt="OpenShift"/>
+</a>
+</p>
+
+---
+
+## ⚙️ DevOps & CI/CD
+
+<p>
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform"/>
+</a>
+
+<a href="https://www.ansible.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ansible" alt="Ansible"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank">
+<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/>
+</a>
+
+<a href="https://about.gitlab.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/>
+</a>
+</p>
+
+---
+
+## 📊 Supervision & Observabilité
+
+<p>
+<a href="https://grafana.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/>
+</a>
+
+<a href="https://prometheus.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus"/>
+</a>
+
+<a href="https://www.splunk.com/" target="_blank">
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+</a>
+</p>
+
+---
+
+## 💻 Langages & Scripting
+
+<p>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
+</a>
+
+<a href="https://www.kernel.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
+</a>
+</p>
+
+---
+
+# 📜 Certifications
+
+🏅 AWS Certified
+
+🏅 Microsoft Azure Certified
+
+🏅 Certified Kubernetes Administrator (CKA)
+
+🏅 Oracle Certified (DBA & Cloud)
+
+---
+
+# 🎯 Domaines d'expertise
+
+- Site Reliability Engineering (SRE)
+
+- DevOps
+
+- Platform Engineering
+
+- Infrastructure Cloud
+
+- Infrastructure as Code (IaC)
+
+- CI/CD
+
+- Administration Kubernetes
+
+- Gestion des incidents de production
+
+- Observabilité
+
+- Reprise après sinistre (Disaster Recovery)
+
+- Haute disponibilité
+
+- Optimisation des performances
+
+---
+
+# 📌 Projets mis en avant
+
+### 🚀 Plateforme AWS avec Terraform
+
+Infrastructure AWS prête pour la production, développée avec Terraform.
+
+---
+
+### ☸ Déploiement Kubernetes en Production
+
+Manifestes Kubernetes complets avec autoscaling, ingress, gestion des secrets, supervision et sécurité.
+
+---
+
+### ⚙️ CI/CD avec GitHub Actions
+
+Pipelines CI/CD réutilisables pour les environnements d'entreprise.
+
+---
+
+### 📦 Automatisation avec Ansible
+
+Rôles Ansible prêts pour la production afin d'automatiser le provisioning Linux.
+
+---
+
+### 📊 Stack de Supervision
+
+Grafana + Prometheus + Alertmanager.
+
+---
+
+### 📘 Runbooks SRE
+
+Documentation des procédures de gestion des incidents de production.
+
+---
+
+# 🚀 Expérience en Production
+
+✔ Clusters Kubernetes en production
+
+✔ Pipelines CI/CD
+
+✔ Infrastructure as Code (IaC)
+
+✔ Site Reliability Engineering
+
+✔ Migration vers le Cloud
+
+✔ Réponse aux incidents
+
+✔ Observabilité
+
+✔ Reprise après sinistre
+
+✔ Administration Linux
+
+✔ Platform Engineering
+
+---
+
+# 📌 Projets Épinglés
+
+| Projet | Description |
+|---------|------------|
+| 🚀 **[UmbracoCMS_application](https://github.com/janadeahmad/UmbracoCMS_application)** | Plateforme prête pour la production avec Terraform, GitOps, supervision et CI/CD. |
+| ☁️ **[Terraform Azure Platform](https://github.com/janadeahmad/SolutionLab_Infra)** | Modules Terraform réutilisables pour les infrastructures Microsoft Azure. |
+| ☸️ **[assignment-DevOps](https://github.com/janadeahmad/assignment-DevOps)** | Projet démontrant les bonnes pratiques DevOps et l'automatisation. |
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=janadeahmad&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Citation
+
+> *« Automatisez tout. Observez tout. Améliorez en continu. »*
+
+---
+
+# 📫 Me contacter
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/janade" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/janadeahmad" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
+
+<a href="https://janade-resume.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Site%20Web-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+
+<a href="mailto:janade.ahmd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+</a>
+
+✔ <a href="tel:+33609755523">
+📞 +33 6 09 75 55 23
+</a>
+
+</p>
+```
+

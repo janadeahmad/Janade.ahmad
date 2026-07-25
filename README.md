@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Senior+DevOps+Engineer;Site+Reliability+Engineer;Cloud+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Platform+Engineering+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Senior+DevOps+Engineer;Site+Reliability+Engineer;Cloud+Engineer;AWS+%7C+Azure+%7C+GCP+%7C+Kubernetes;Platform+Engineering+Enthusiast"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@ Senior DevOps Engineer • Site Reliability Engineer • Cloud Engineer
 
 ✔ 18+ years of Infrastructure & Cloud Engineering
 
-✔ AWS • Azure • Kubernetes • OpenShift
+✔ AWS • Azure • Cloud Platform (GCP) • Kubernetes • OpenShift Google 
 
 ✔ Automation enthusiast
 
@@ -157,6 +157,8 @@ Senior DevOps Engineer • Site Reliability Engineer • Cloud Engineer
 
 🏅 Certified Kubernetes Administrator (CKA)
 
+🏅 Oracle Certified (DBA & Cloud)  
+
 ---
 
 # 🎯 Expertise
@@ -184,18 +186,6 @@ Senior DevOps Engineer • Site Reliability Engineer • Cloud Engineer
 - High Availability
 
 - Performance Optimization
-
----
-
-# 🌱 Currently Learning
-
-- Google Cloud Platform
-
-- Platform Engineering
-
-- AI Infrastructure
-
-- MLOps
 
 ---
 

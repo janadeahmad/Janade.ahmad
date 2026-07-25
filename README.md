@@ -225,6 +225,7 @@ Grafana + Prometheus + Alertmanager.
 Production incident response documentation.
 
 ---
+
 ## Production Experience
 
 ✔ Kubernetes Production Clusters
@@ -246,6 +247,18 @@ Production incident response documentation.
 ✔ Linux Administration
 
 ✔ Platform Engineering
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|------------|
+| 🚀 **[UmbracoCMS_application](https://github.com/janadeahmad/UmbracoCMS_application)** | Production-ready , Terraform, GitOps, Monitoring and CI/CD platform. |
+| ☁️ **[Terraform Azure Platform](https://github.com/janadeahmad/SolutionLab_Infra)** | Reusable Terraform modules for Azure infrastructure. |
+| ☸️ **[assignment-DevOps](https://github.com/janadeahmad/assignment-DevOps)** | assignment-DevOps and best practices. |
+
+---
 
 # 🔥 GitHub Streak
 

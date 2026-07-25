@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Senior+DevOps+Engineer;Site+Reliability+Engineer;Cloud+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Platform+Engineering+Enthusiast"/>
+</p>
+---
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">Hi 👋, I'm Janade</h1>
@@ -44,54 +48,101 @@ Senior DevOps Engineer • Site Reliability Engineer • Cloud Engineer
 
 # 🛠 Tech Stack
 
-### ☁️ Cloud
+## ☁️ Cloud
 
-![AWS](https://skillicons.dev/icons?i=aws)
+<p>
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+</a>
 
-![Azure](https://skillicons.dev/icons?i=azure)
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure"/>
+</a>
 
-![GCP](https://skillicons.dev/icons?i=gcp)
-
----
-
-### Containers
-
-![Docker](https://skillicons.dev/icons?i=docker)
-
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-
-![OpenShift](https://img.shields.io/badge/OpenShift-red?style=for-the-badge&logo=redhatopenshift)
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud"/>
+</a>
+</p>
 
 ---
 
-### DevOps
+## 📦 Containers & Orchestration
 
-![Terraform](https://skillicons.dev/icons?i=terraform)
+<p>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+</a>
 
-![Ansible](https://skillicons.dev/icons?i=ansible)
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/>
+</a>
 
-![Git](https://skillicons.dev/icons?i=git)
-
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-
----
-
-### Monitoring
-
-- Grafana
-- Prometheus
-- Splunk
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank">
+<img src="https://img.shields.io/badge/OpenShift-red?style=for-the-badge&logo=redhatopenshift" alt="OpenShift"/>
+</a>
+</p>
 
 ---
 
-### Languages
+## ⚙️ DevOps & CI/CD
 
-![Python](https://skillicons.dev/icons?i=python)
+<p>
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform"/>
+</a>
 
-![Bash](https://skillicons.dev/icons?i=bash)
+<a href="https://www.ansible.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ansible" alt="Ansible"/>
+</a>
 
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank">
+<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/>
+</a>
+
+<a href="https://about.gitlab.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/>
+</a>
+</p>
+
+---
+
+## 📊 Monitoring & Observability
+
+<p>
+<a href="https://grafana.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/>
+</a>
+
+<a href="https://prometheus.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus"/>
+</a>
+
+<a href="https://www.splunk.com/" target="_blank">
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+</a>
+</p>
+
+---
+
+## 💻 Languages & Scripting
+
+<p>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
+</a>
+
+<a href="https://www.kernel.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
+</a>
+</p>
 ---
 
 # 📜 Certifications
